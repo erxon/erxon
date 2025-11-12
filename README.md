@@ -21,3 +21,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="32" height="32" />
 </p>
 
+## Ongoing Projects
+### [Wise Notes](https://github.com/erxon/wise-notes-v2)
+Created Wise Notes v2, an AI-driven note-taking platform that helps users summarize notes.   
+Built with React, Node.js, and MongoDB vector search for intelligent retrieval.  
+Designed an intuitive drag-and-drop UI and delivered a smooth, secure user experience end-to-end.
+
+### [River](https://github.com/erxon/river)
+An ongoing SaaS project that has the same features with Wise Notes with additional features.  
+The app will focus on research and development, and knowledge management for organization.
