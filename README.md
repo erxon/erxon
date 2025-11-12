@@ -1,7 +1,6 @@
-<h1>
-  <b>Hi! Thanks for visiting my profile</b>
-</h1>
-<h3>Stack</h3>
+# Hi! Thanks for visiting my profile</b>
+
+## Stack
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32" height="32" />    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="32" height="32" /> 
@@ -21,3 +20,4 @@
 <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain.svg" width="32" height="32" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="32" height="32" />
 </p>
+
